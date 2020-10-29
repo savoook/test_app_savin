@@ -7,7 +7,7 @@
 <html>
 <body>
 <div>
-    <a href="websphera" class="websphera">Hello WebSphere</a>
+    <a href="/websphera" class="websphera">Hello WebSphere</a>
 </div>
 </body>
 </html>
